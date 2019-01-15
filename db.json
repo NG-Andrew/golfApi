@@ -5,7 +5,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "players": [
+  "comments": [
     { "name": "andrew Holmes", "hole": 2, "shots": 9, "toPar": 1 },
     { "name": "tim put", "hole": 3, "shots": 11, "toPar": 2  }
   ],
