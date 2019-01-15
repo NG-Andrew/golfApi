@@ -7,7 +7,7 @@
   ],
   "players": [
     { "name": "andrew Holmes", "hole": 2, "shots": 9, "toPar": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "name": "tim put", "hole": 3, "shots": 11, "toPar": 2  }
   ],
   "profile": {
     "name": "typicode"
