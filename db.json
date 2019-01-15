@@ -4,7 +4,7 @@
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
-  ],players
+  ],
   "players": [
     { "name": "andrew Holmes", "hole": 2, "shots": 9, "toPar": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
